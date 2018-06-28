@@ -32,6 +32,12 @@
                                         </connections>
                                     </barButtonItem>
                                     <barButtonItem style="plain" systemItem="flexibleSpace" id="qkm-h3-llu"/>
+                                    <barButtonItem systemItem="action" id="vy4-xC-iG2"/>
+                                    <barButtonItem systemItem="action" id="XCW-IG-X77">
+                                        <connections>
+                                            <action selector="tapShare:" destination="BYZ-38-t0r" id="urx-z2-fWn"/>
+                                        </connections>
+                                    </barButtonItem>
                                     <barButtonItem systemItem="organize" id="i83-tn-Hj3">
                                         <connections>
                                             <action selector="tapLibraryButton:" destination="BYZ-38-t0r" id="kgd-eP-mh9"/>
